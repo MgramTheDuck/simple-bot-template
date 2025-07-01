@@ -1,6 +1,5 @@
 /**
  * @fileoverview Discord bot main entry point - handles initialization, command loading, and event management
- * @author Your Name
  * @version 1.0.0
  */
 

@@ -1,6 +1,5 @@
 /**
  * @fileoverview Command deployment utility for Discord bot - handles registering slash commands with Discord API
- * @author Your Name
  * @version 1.0.0
  */
 
