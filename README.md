@@ -23,7 +23,7 @@ A comprehensive Discord bot template built with Discord.js v14, featuring automa
 1. **Clone or download this template**
    ```bash
    git clone <your-repo-url>
-   cd bot-base
+   cd simple-bot-template
    ```
 
 2. **Install dependencies**
