@@ -1,0 +1,7 @@
+{
+  "redeployScheduler": {
+    "enabled": true,
+    "cron": "* * * * *"
+  }
+}
+
